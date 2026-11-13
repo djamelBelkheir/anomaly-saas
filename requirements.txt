@@ -1,0 +1,41 @@
+# Django
+Django>=5.2,<6.0
+djangorestframework
+
+# Data processing
+pandas
+numpy
+scipy
+logging
+dataclasses
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+statsmodels
+
+
+# Data visualization
+matplotlib
+seaborn
+folium
+geopy
+
+# File handling
+openpyxl
+Pillow
+
+# Environment configuration
+python-dotenv
+
+# Background processing
+celery
+redis
+
+# Database
+psycopg[binary]
+
+# Development
+jupyter
+ipykernel
